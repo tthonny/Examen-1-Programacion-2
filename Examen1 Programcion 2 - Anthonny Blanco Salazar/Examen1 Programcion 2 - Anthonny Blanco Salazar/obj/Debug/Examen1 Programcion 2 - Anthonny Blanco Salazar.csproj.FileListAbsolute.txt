@@ -1,0 +1,7 @@
+C:\Users\ablan\source\repos\Examen1 Programcion 2 - Anthonny Blanco Salazar\Examen1 Programcion 2 - Anthonny Blanco Salazar\bin\Debug\Examen1 Programcion 2 - Anthonny Blanco Salazar.exe.config
+C:\Users\ablan\source\repos\Examen1 Programcion 2 - Anthonny Blanco Salazar\Examen1 Programcion 2 - Anthonny Blanco Salazar\bin\Debug\Examen1 Programcion 2 - Anthonny Blanco Salazar.exe
+C:\Users\ablan\source\repos\Examen1 Programcion 2 - Anthonny Blanco Salazar\Examen1 Programcion 2 - Anthonny Blanco Salazar\bin\Debug\Examen1 Programcion 2 - Anthonny Blanco Salazar.pdb
+C:\Users\ablan\source\repos\Examen1 Programcion 2 - Anthonny Blanco Salazar\Examen1 Programcion 2 - Anthonny Blanco Salazar\obj\Debug\Examen1 Programcion 2 - Anthonny Blanco Salazar.csproj.AssemblyReference.cache
+C:\Users\ablan\source\repos\Examen1 Programcion 2 - Anthonny Blanco Salazar\Examen1 Programcion 2 - Anthonny Blanco Salazar\obj\Debug\Examen1 Programcion 2 - Anthonny Blanco Salazar.csproj.CoreCompileInputs.cache
+C:\Users\ablan\source\repos\Examen1 Programcion 2 - Anthonny Blanco Salazar\Examen1 Programcion 2 - Anthonny Blanco Salazar\obj\Debug\Examen1 Programcion 2 - Anthonny Blanco Salazar.exe
+C:\Users\ablan\source\repos\Examen1 Programcion 2 - Anthonny Blanco Salazar\Examen1 Programcion 2 - Anthonny Blanco Salazar\obj\Debug\Examen1 Programcion 2 - Anthonny Blanco Salazar.pdb
